@@ -32,9 +32,5 @@ public class BikeService {
 
     private void updateDataBike(String id, String col, boolean state, String pilot)
     {
-        if (bike)
-        {
-
-        }
     }
 }
