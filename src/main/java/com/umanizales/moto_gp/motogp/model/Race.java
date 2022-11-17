@@ -42,7 +42,6 @@ public class Race {
             temp.setNext(temp.getPrevious());
         }
     }
-    }
 
     public ListDE getListBikes() {
         return listBikes;
